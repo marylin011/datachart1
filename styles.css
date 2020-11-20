@@ -1,0 +1,45 @@
+styles.css
+
+.container	{
+font-family: 'Lato', sans-serif; 
+margin: 0px;
+text-align: center;
+align-content: center;
+max-width: 700px;
+margin: 0 auto;
+width: 100%;
+	}
+	
+
+.headline {
+font-family: 'Lato', sans-serif; 
+margin: 0px;
+text-align: center;
+align-content: center;
+max-width: 700px;
+margin: 0 auto;
+width: 100%;
+ }
+
+.content
+{
+	font-family: 'Lato', sans-serif; 
+margin: 0px;
+text-align: center;
+align-content: center;
+max-width: 700px;
+margin: 0 auto;
+width: 100%;
+font-size: 17px;
+	}
+
+.image
+{
+font-family: 'Lato', sans-serif; 
+margin: 0px;
+text-align: center;
+align-content: center;
+max-width: 700px;
+margin: 0 auto;
+width: 100%;
+	}
